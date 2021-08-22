@@ -8,12 +8,12 @@ a simple social media MERN app for sharing memories that allows users to post in
 body-parser <br>
 nodemon<br>
 mongoose <br>
-express<br>
-moment <br>
+express.js<br>
+moment.js <br>
 redux <br>
+redux-thunk <br>
 axios <br>
 react-file-base64 <br>
-redux-thunk <br>
 @material-ui/core<br>
 
 ## Getting Started
